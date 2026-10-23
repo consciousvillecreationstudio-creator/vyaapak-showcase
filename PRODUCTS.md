@@ -2,7 +2,7 @@
 
 [← Back to VYAAPAK](README.md)
 
-VYAAPAK connects practice, study, learning, discussion, and research. Each product serves a distinct purpose within that shared experience.
+VYAAPAK brings the mathematics, literature, and interpretation of Jyotish into one connected ecosystem. Computational engines, source-linked knowledge, and the development of explainable AI support its work across practice, learning, discussion, and research.
 
 ## Studio · Your practice workspace
 
@@ -33,6 +33,10 @@ Vaad brings scenarios, predictions, and discussion into a structured setting. It
 For researchers investigating questions and examining evidence.
 
 Labs connects research activity with evidence and evaluation. Its purpose is to support disciplined investigation and clear reporting.
+
+## AI development and future APIs
+
+We’re developing models grounded in structured Jyotish knowledge and outcome-labelled observations. Recorded predictions and feedback support hypothesis testing and model evaluation. APIs are planned for selected capabilities; they are not currently offered through this repository.
 
 ## Availability
 
