@@ -7,7 +7,7 @@
 
 **We’re building the technology to make Jyotish accessible to everyone.**
 
-[Explore the ecosystem](PRODUCTS.md) · [Our principles](PRINCIPLES.md) · [Public updates](UPDATES.md)
+[Explore the ecosystem](PRODUCTS.md) · [Our principles](PRINCIPLES.md) · [Public updates](UPDATES.md) · [Visual identity](BRAND.md)
 
 </div>
 
