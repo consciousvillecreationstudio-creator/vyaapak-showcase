@@ -1,21 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
 <title id="title">VYAAPAK — Demystifying astrology through data science and technology</title>
-<desc id="desc">VYAAPAK product showcase banner. Studio, Marg Darshan, Vidyalaya, Vaad and Labs.</desc>
-<rect width="1280" height="360" rx="24" fill="#f8faf9"/>
-<rect x="1" y="1" width="1278" height="358" rx="23" fill="none" stroke="#dce7e1" stroke-width="2"/>
-<path d="M72 60h46" stroke="#26785c" stroke-width="5" stroke-linecap="round"/>
-<text x="72" y="130" font-family="Arial,Helvetica,sans-serif" font-size="57" font-weight="700" letter-spacing="7" fill="#14231e">VYAAPAK</text>
-<text x="74" y="179" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#43584e">Jyotish, baked in technology, based in scriptures.</text>
-<text x="74" y="226" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#43584e">Demystifying astrology through data science and technology.</text>
-<g font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#215c46">
-<rect x="74" y="267" width="104" height="40" rx="20" fill="#e4f1e9"/><text x="126" y="292" text-anchor="middle">Studio</text>
-<rect x="192" y="267" width="157" height="40" rx="20" fill="#e4f1e9"/><text x="270" y="292" text-anchor="middle">Marg Darshan</text>
-<rect x="363" y="267" width="126" height="40" rx="20" fill="#e4f1e9"/><text x="426" y="292" text-anchor="middle">Vidyalaya</text>
-<rect x="503" y="267" width="94" height="40" rx="20" fill="#e4f1e9"/><text x="550" y="292" text-anchor="middle">Vaad</text>
-<rect x="611" y="267" width="94" height="40" rx="20" fill="#e4f1e9"/><text x="658" y="292" text-anchor="middle">Labs</text>
+<desc id="desc">VYAAPAK wordmark and the diamond V emblem adapted from the Studio frontend. Studio, Marg Darshan, Vidyalaya, Vaad and Labs.</desc>
+<rect width="1280" height="360" rx="24" fill="#ffffff"/>
+<rect x="1" y="1" width="1278" height="358" rx="23" fill="none" stroke="#ded5d7" stroke-width="2"/>
+<path d="M72 60h46" stroke="#70414d" stroke-width="5" stroke-linecap="round"/>
+<text x="72" y="130" font-family="Arial,Helvetica,sans-serif" font-size="57" font-weight="700" letter-spacing="7" fill="#252122">VYAAPAK</text>
+<text x="74" y="179" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#675f60">Jyotish, baked in technology, based in scriptures.</text>
+<text x="74" y="226" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#675f60">Demystifying astrology through data science and technology.</text>
+<g font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#70414d">
+<rect x="74" y="267" width="104" height="40" rx="20" fill="#f4edef"/><text x="126" y="292" text-anchor="middle">Studio</text>
+<rect x="192" y="267" width="157" height="40" rx="20" fill="#f4edef"/><text x="270" y="292" text-anchor="middle">Marg Darshan</text>
+<rect x="363" y="267" width="126" height="40" rx="20" fill="#f4edef"/><text x="426" y="292" text-anchor="middle">Vidyalaya</text>
+<rect x="503" y="267" width="94" height="40" rx="20" fill="#f4edef"/><text x="550" y="292" text-anchor="middle">Vaad</text>
+<rect x="611" y="267" width="94" height="40" rx="20" fill="#f4edef"/><text x="658" y="292" text-anchor="middle">Labs</text>
 </g>
-<g fill="none" stroke="#b9d8c9" stroke-width="1.5">
-<circle cx="1093" cy="180" r="108"/><circle cx="1093" cy="180" r="79"/><circle cx="1093" cy="180" r="49"/>
-<path d="M985 180h216M1093 72v216M1017 104l152 152M1017 256l152-152"/>
-</g><circle cx="1093" cy="180" r="7" fill="#26785c"/>
+<g aria-label="VYAAPAK diamond V mark"><rect x="1019" y="106" width="148" height="148" transform="rotate(45 1093 180)" fill="none" stroke="#252122" stroke-width="3"/><text x="1093" y="210" text-anchor="middle" font-family="Georgia,Times New Roman,serif" font-size="96" fill="#252122">V</text></g>
 </svg>
