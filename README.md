@@ -1,11 +1,11 @@
-![VYAAPAK — Jyotish practice, learning and research](assets/vyaapak-banner.svg)
+![VYAAPAK — Demystifying astrology through data science and technology](assets/vyaapak-banner.svg)
 
 <div align="center">
 
 # VYAAPAK
 ### Jyotish, baked in technology, based in scriptures.
 
-**A connected ecosystem for Jyotish practice, learning, and research.**
+**We’re building the technology to make Jyotish accessible to everyone.**
 
 [Explore the ecosystem](PRODUCTS.md) · [Our principles](PRINCIPLES.md) · [Public updates](UPDATES.md)
 
@@ -13,52 +13,44 @@
 
 ---
 
-## From studying knowledge to developing practice
+The ability to explore Jyotish shouldn’t depend on knowing Sanskrit, navigating a library of texts, or already understanding how to read a chart. Nor should understanding its claims mean accepting ambiguous interpretations or predictions whose reasoning is unclear. VYAAPAK aims to **demystify astrology through data science and technology**, making its foundations accessible and its interpretations open to examination.
 
-Jyotish study, chart analysis, consultations, and research belong together. VYAAPAK brings these activities into a connected workspace, with an emphasis on structured knowledge, clear reasoning, and learning through application.
+VYAAPAK brings its mathematics, literature, and interpretive traditions into one connected ecosystem—so anyone can begin exploring, follow the reasoning, and deepen their understanding.
 
-We are developing VYAAPAK for **practitioners, learners, and researchers** who want continuity between what they study, how they analyse, and what they learn from outcomes.
+Explore **Ganit**, the mathematical foundations of astrology, alongside **Phalit**, the interpretation of charts. Follow connections to attributed literature, examine the basis of an interpretation, and carry your observations into practice, learning, and research.
 
-## The VYAAPAK ecosystem
+## The question behind the research
 
-| | Product | Purpose |
-| :--- | :--- | :--- |
-| **Practice** | **Studio** | Organise your practice, work with charts, and manage consultations. |
-| **Learn** | **Marg Darshan** | Develop skills through guided practice and clear learning objectives. |
-| **Study** | **Vidyalaya** | Explore concise knowledge connected to sources and learning objectives. |
-| **Discuss** | **Vaad** | Participate in structured scenarios, predictions, and discussion. |
-| **Investigate** | **Labs** | Connect research questions with evidence and evaluation. |
+Our research begins with a question: **Do the positions and movements of celestial bodies bear a measurable relationship to events in our world—and, if so, does that relationship align with what Jyotish literature describes?** Investigating that question means translating traditional statements into testable hypotheses, examining patterns against appropriate baselines, and distinguishing correlation from evidence of causation.
 
-[Read the product overview →](PRODUCTS.md)
+## Data science, technology, and AI
 
-## What guides our work
+Ontologies connect concepts across texts. Computational engines translate mathematical methods into reproducible calculations. Knowledge graphs connect chart observations with relevant interpretations and their sources, making the reasoning traceable.
 
-**Knowledge with attribution.** Preserve the connection between a statement and its source.
+On these foundations, we’re developing AI models that learn from structured knowledge and outcome-labelled observations. Predictions, confidence, time windows, and feedback become data for testing hypotheses, measuring performance, and refining models.
 
-**Reasoning people can follow.** Make the basis of an output understandable.
+This connects **knowledge representation, symbolic reasoning, machine learning, and human feedback** within an ecosystem for Jyotish. Explainability means being able to inspect how an output was reached; evaluation means recording where an interpretation succeeds, fails, or remains unresolved.
 
-**Learning through application.** Connect study with practice, feedback, and progression.
+## The ecosystem
 
-**Evaluation with clear boundaries.** Distinguish calculation correctness, traditional interpretation, and predictive performance.
+| Product | Focus |
+| :--- | :--- |
+| **Studio** | Chart exploration, analysis, and consultation practice. |
+| **Marg Darshan** | Applied learning through objectives, exercises, and feedback. |
+| **Vidyalaya** | Focused knowledge connected to literature and learning objectives. |
+| **Vaad** | Scenarios, predictions, and structured discussion. |
+| **Labs** | Research, evidence, and evaluation. |
+
+[Explore the ecosystem →](PRODUCTS.md)
+
+## Development and access
+
+Foundation-grounded AI models are under development. APIs are planned for selected capabilities. Product access and availability will be announced separately.
+
+[Follow public updates →](UPDATES.md)
+
+## About this repository
+
+This is VYAAPAK’s public showcase. Its implementation, internal architecture, curated ontology, rules, knowledge assets, models, and datasets remain proprietary and private.
 
 [Read our principles →](PRINCIPLES.md)
-
-## Follow the development
-
-This repository is VYAAPAK's public product showcase. Watch it for product updates and public announcements.
-
-Product descriptions introduce the scope of the ecosystem. Access and availability will be announced explicitly; this showcase is not an access portal.
-
-## Proprietary platform
-
-VYAAPAK is a proprietary product. This repository contains public-facing product information only. Source code, internal architecture, ontology, rules, knowledge assets, models, and datasets are private.
-
-No product source code or model weights are distributed through this repository.
-
----
-
-<div align="center">
-
-**Practice with structure. Learn with direction. Research with accountability.**
-
-</div>
