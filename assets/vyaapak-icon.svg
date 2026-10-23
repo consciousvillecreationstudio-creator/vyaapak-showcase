@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+<title id="title">VYAAPAK</title><desc id="desc">An upright serif V within a diamond outline, adapted from the Studio frontend mark.</desc>
+<rect width="512" height="512" rx="64" fill="#ffffff"/>
+<rect x="116" y="116" width="280" height="280" transform="rotate(45 256 256)" fill="none" stroke="#252122" stroke-width="5"/>
+<text x="256" y="313" text-anchor="middle" font-family="Georgia,Times New Roman,serif" font-size="182" fill="#252122">V</text>
+</svg>
