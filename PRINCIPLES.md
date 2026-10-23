@@ -12,6 +12,10 @@ Knowledge should retain its context. A traditional statement, a later interpreta
 
 People should be able to understand the basis of an output. Explanations should help users examine an interpretation and its assumptions.
 
+## Demystify through examination
+
+Make Jyotish accessible while making its claims open to examination. Translate traditional statements into testable hypotheses, compare patterns with appropriate baselines, and distinguish correlation from evidence of causation.
+
 ## Connect learning to capability
 
 Learning objectives should connect to practical application. Progress should reflect skills developed through exercises and feedback.
@@ -25,6 +29,10 @@ Calculation correctness, faithful representation of a traditional rule, and pred
 - **Predictive performance:** how recorded forecasts compare with observed outcomes under a defined evaluation method.
 
 Evidence for one does not establish the others. This showcase makes no claim of independently established predictive accuracy.
+
+## Develop models with accountable feedback
+
+Record predictions, confidence, time windows, corrections, and observed outcomes so that model performance can be evaluated. Explainability should reveal the basis of an output; it does not itself establish that the output is correct. Foundation-grounded AI models are under development.
 
 ## Respect privacy
 
