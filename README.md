@@ -1,3 +1,5 @@
+![VYAAPAK — Jyotish practice, learning and research](assets/vyaapak-banner.svg)
+
 <div align="center">
 
 # VYAAPAK
